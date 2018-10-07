@@ -1,0 +1,25 @@
+.foto-item{
+	width: 220px;
+	float: left;
+	text-align: center;
+	margin-right: 20px;
+}
+
+.foto-item img{
+	width: 200px;
+	height: 150px;
+	
+}
+
+.foto-item a{
+	width: 190px;
+}
+
+@media (max-width: 991.98px){
+	h1{
+		color: black;
+	}
+}
+
+
+

@@ -1,0 +1,1 @@
+Sistema de classificados desenvolvido durante o curso de PHP utilizando a biblioteca Bootstrap, orientação a objetos, e banco de dados MySQL.
